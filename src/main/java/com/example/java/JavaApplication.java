@@ -26,6 +26,7 @@ public class JavaApplication {
     }
 
     public static void main(String[] args) {
+        System.out.println("1231231");
         JavaApplication T = new JavaApplication();
         Scanner kb = new Scanner(System.in);
         String str = kb.next();
