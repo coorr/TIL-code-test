@@ -18,6 +18,8 @@ target/
 .idea
 .out/
 .out
+out
+.gradle/
 *.iws
 *.iml
 *.ipr
