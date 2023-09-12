@@ -66,5 +66,4 @@ public class 캐시_메모리 {
             System.out.print(integer + " ");
         }
     }
-    }
 }
