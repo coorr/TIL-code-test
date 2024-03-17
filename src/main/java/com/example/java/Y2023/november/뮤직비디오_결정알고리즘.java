@@ -1,4 +1,4 @@
-package com.example.java.november;
+package com.example.java.Y2023.november;
 
 import java.util.Scanner;
 

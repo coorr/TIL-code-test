@@ -1,4 +1,4 @@
-package com.example.java.august;
+package com.example.java.Y2023.august;
 
 import java.util.*;
 import java.util.stream.Collectors;
